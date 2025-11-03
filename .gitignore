@@ -1,0 +1,41 @@
+# Dependencias y build
+vendor/
+node_modules/
+dist/
+build/
+.cache/
+.tmp/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs y dumps
+*.log
+logs/
+storage/
+*.sql
+dump.sql
+
+# Entornos/credenciales
+.env
+.env.*
+*.key
+
+# Cachés
+cache/
+smarty/cache/
+*.cache
+
+# Front
+.sass-cache/
+npm-debug.log*
+
+# Sitio
+public/uploads/tmp/
+*.zip
+
+# Si NO quieres versionar los videos grandes:
+videos/
