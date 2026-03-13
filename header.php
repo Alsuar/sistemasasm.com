@@ -1,3 +1,6 @@
+<?php
+$pagina_actual = basename($_SERVER['PHP_SELF']);
+?>
 <link href="bootstrap/css/bootstrap_asm.min.css" rel="stylesheet"> 
 <link href="icomoon.css" rel="stylesheet"> 
 <link rel="StyleSheet" href="estilos_asm.min.css" type="text/css">
@@ -21,11 +24,25 @@
               <!-- Inicia Menu -->
               <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                  <li class="active"><a href="index.php">Inicio</a></li>
-                  <li><a href="nosotros.php">Nosotros</a></li>
-                  <li><a href="facturacion-pos.php">Sistema Administrativo</a></li>
-                  <li><a href="software-taller.php">Software de Taller</a></li>
-                  <li><a href="contacto.php">Contacto</a></li>
+                  <li class="<?= ($pagina_actual == 'index.php') ? 'active' : '' ?>">
+                      <a href="index.php">Inicio</a>
+                  </li>
+
+                  <li class="<?= ($pagina_actual == 'nosotros.php') ? 'active' : '' ?>">
+                      <a href="nosotros.php">Nosotros</a>
+                  </li>
+
+                  <li class="<?= ($pagina_actual == 'sistema-administrativo.php') ? 'active' : '' ?>">
+                      <a href="sistema-administrativo.php">Sistema Administrativo</a>
+                  </li>
+
+                  <li class="<?= ($pagina_actual == 'software-taller.php') ? 'active' : '' ?>">
+                      <a href="software-taller.php">Software de Taller</a>
+                  </li>
+
+                  <li class="<?= ($pagina_actual == 'contacto.php') ? 'active' : '' ?>">
+                      <a href="contacto.php">Contacto</a>
+                  </li>
                 </ul>
               
                 <form action="#" class="navbar-form navbar-right" role="search">
