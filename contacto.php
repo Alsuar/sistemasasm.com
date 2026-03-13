@@ -3,10 +3,6 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="DC.title" content="undefined" />
-<meta name="geo.region" content="PA-8" />
-<meta name="geo.placename" content="Panama Pacifico" />
-<meta name="geo.position" content="8.916154;-79.599672" />
-<meta name="ICBM" content="8.916154, -79.599672" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <title>Contacto Sistemas Asm</title>

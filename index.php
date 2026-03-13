@@ -2,41 +2,21 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Sistemas Asm tu mejor opcion en soluciones tecnologicas en Panama, sistemas y seguridad">
+	<meta name="description" content="Sistemas Asm tu mejor opcion en soluciones tecnologicas">
 	<meta name="keywords" content="software administrativo,factura electronica panama,sistema para taller,empresas al por mayor,sistema de facturacion">
 	<meta name="DC.title" content="undefined" />
-	<meta name="geo.region" content="PA-8" />
-	<meta name="geo.placename" content="Panama Pacifico" />
-	<meta name="geo.position" content="8.916154;-79.599672" />
-	<meta name="ICBM" content="8.916154, -79.599672" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="canonical" href="https://www.sistemasasm.com/"/>
 	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<title>Sistema de Ventas y Taller con Factura Electrónica en Panamá</title>
+	<title>Sistema Administrativo</title>
 </head>
 <body>
 	<?php include_once("analyticstracking.php") ?>
 	<?php include("header.php"); ?>
 	<main>
 		<div class="container fblank thumbnail">
-<!-- 			<div class="social" style="top:400px">
-				<ul>
-					<li>
-						<a href="http://www.facebook.com/sistemasasm" target="_blank" class="icon-facebook"></a>
-					</li>
-					<li>
-						<a href="http://www.instagram.com/sistemasasm" target="_blank" class="icon-instagram"></a>
-					</li>
-					<li>
-						<a href="http://www.twitter.com/sistemasasm" target="_blank" class="icon-twitter"></a>
-					</li>
-					<li>
-						<a href="mailto:info@sistemasasm.com" class="icon-mail2"></a>
-					</li>
-				</ul>
-			</div> -->
 			<div id="contenidoAjax" style="position:fixed; margin:10% 0 0 38%;z-index:2000;display: none">
 				<p align='center'><img src='img/ajax-loader.gif' /></p>
 			</div>
@@ -44,16 +24,34 @@
 			<div id="existencia">
 				<?php include('modal_contacto.php'); ?> </div>
 			<section>
-				<div class="image"> <img src="img/home_sistemasasm.jpg" alt="Sistemas ASM" class="img-responsive">
-					<h2> <span class="textop"> <span class="text1"><span class="color-green">ADMINISTRAR</span>TU EMPRESA</span> <br><span style="font-weight: 800; font-size: 1.20em">&nbsp;NUNCA FUE TAN <span class="color-green">FÁCIL</span></span> <br><span class="text-muted" style="font-size: 0.40em; font-weight: 500; font-family: "Open Sans",Arial,sans-serif;">&nbsp;&nbsp;Solución completa y moderna, sin complicaciones.</span> </span> </h2> <span class="caj-btn-layer"> <button class="btn btn-primary" style="border-radius: 0" id="btn_contacto_ban">PRUÉBALO GRATIS</button> </span> </div>
+				<div class="image"> <img src="img/home_sistemasasm.png" alt="Sistemas ASM" class="img-responsive">
+				<h2 class="hero-banner-text">
+					<span class="hero-kicker">EMPRESAS MODERNAS, SOLUCIONES INTELIGENTES</span>
+
+					<span class="hero-title">
+						ADMINISTRAR NUNCA
+						<br>
+						FUE TAN <span class="hero-title-accent">FÁCIL.</span>
+					</span>
+
+					<span class="hero-desc">
+						Unifique sus operaciones con una plataforma
+						<br>
+						innovadora y escalable.
+					</span>
+				</h2>
+					<span class="caj-btn-layer"> 
+						<button class="btn btn-primary" style="border-radius: 0" id="btn_contacto_ban">PRUÉBALO GRATIS</button> 
+					</span> 
+				</div>
 			</section>
 			<div class="tagline">
-				<h1>Sistema de Ventas y Taller con Factura Electrónica en Panamá</h1> </div>
+				<h1>Sistema Administrativo en la Nube</h1> </div>
 			<div class="container marketing">
 				<div class="featuretit">
 					<div class="row">
 						<div class="col-lg-12">
-							<h3>Sistema de Ventas (Punto de Venta Android) y Gestión de Inventarios, Especialmente diseñado para Administrar tu Restaurante, Ferreterias, Comercio Minorista, Salas de Belleza, Taller Mecanico Automotriz, Servicio Técnico y mucho mas.</h3> 
+							<h3>Sistema Administrativo y Gestión de Inventarios, Especialmente diseñado para Administrar tu Restaurante, Ferreterias, Comercio Minorista, Salas de Belleza, Taller Mecanico Automotriz, Servicio Técnico y mucho mas.</h3> 
 						</div>
 					</div>
 				</div>
@@ -62,7 +60,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/gestion_inventario.png" alt="Soluciones en la nube Panama desarrollo web"></a>
+									<a href="facturacion-pos.php"><img src="img/iconos/gestion_inventario.png" alt="Soluciones en la nube desarrollo web"></a>
 									<h3>GESTIÓN DE INVENTARIOS</h3>
 									<p class="leadtxt">Sincroniza tu inventario, no más hojas de Excel</p>
 								</div>
@@ -156,7 +154,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/sistema_online.png" alt="Soluciones en la nube Panama desarrollo web" height="140" width="140"></a>
+									<a href="facturacion-pos.php"><img src="img/iconos/sistema_online.png" alt="Soluciones en la nube desarrollo web" height="140" width="140"></a>
 									<h3>100% EN LA NUBE</h3>
 									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexion a Internet.</p>
 								</div>

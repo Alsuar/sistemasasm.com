@@ -5,10 +5,6 @@
 <meta name="description" content="Sistema Administrativo Web, Gestiona y consulta tu informacion empresarial desde cualquier lugar y cualquier equipo.">
 <meta name="keywords" content="software administrativo,sistema para taller,sistema administrativo empresarial,control de inventarios,sistemas de inventarios">
 <meta name="DC.title" content="undefined" />
-<meta name="geo.region" content="PA-8" />
-<meta name="geo.placename" content="Panama Pacifico" />
-<meta name="geo.position" content="8.916154;-79.599672" />
-<meta name="ICBM" content="8.916154, -79.599672" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -30,7 +26,7 @@
 				<div style="padding: 30px 40px 0 40px;">
 					<ul class="breadcrumb">
 						<li><a href="index.php">Inicio</a></li>
-						<li class="active">Sistema de Inventario</li>
+						<li class="active">Sistema Administrativo</li>
 					</ul> 
 				</div>
 				<section>
@@ -97,14 +93,14 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Factura Electronica Panama" src="img/factura_electronica_panama.png">
+										<img class="img-responsive" alt="Factura Electronica" src="img/factura_electronica_panama.png">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Agiliza y mejora todo tus procesos de ventas</h3>
-										<h3 class="serv_tit2">Facturación Electrónica Panamá</h3>
-										<p>Emite y valida tus comprobantes electrónicos homologados por la DGI</p>
+										<h3 class="serv_tit2">Facturación Electrónica</h3>
+										<p>Emite y valida tus comprobantes electrónicos homologados</p>
 										<br>
-										<p>Optimiza tu proceso de facturación en Panamá con nuestro Punto de Venta Android. Cumple con los requisitos legales gracias a nuestro sistema de ventas, que facilita la emisión de facturas electrónicas de manera eficiente y segura.</p>
+										<p>Optimiza tu proceso de facturación con nuestro Punto de Venta Android. Cumple con los requisitos legales gracias a nuestro sistema de ventas, que facilita la emisión de facturas electrónicas de manera eficiente y segura.</p>
 									</div>
 								</div>
 							</div>
@@ -153,25 +149,6 @@
 						</article>
 					</div>
 				</section>
-				<!-- <hr class="divider_flat">  -->
-<!-- 				<section>
-					<div class="imgbloq bloq">
-						<article>
-							<div>
-								<div class="row">
-									<div class="col-lg-8">
-										<h3 class="serv_tit1">Mantente mejor informado sobre tu Negocio</h3>
-										<h3 class="serv_tit2">Reportes en tiempo real</h3>
-										<p>Genera instantáneamente reportes de existencias, transferencias y movimientos de inventarios desde cualquier dispositivo móvil con acceso a internet.</p>
-									</div>
-									<div class="col-lg-4">
-										<img class="img-responsive" alt="Sistema-Inventario-Web-Nube-Online-Panama" src="img/reportes_inventarios.png">
-									</div>
-								</div>
-							</div>
-						</article>
-					</div>
-				</section> -->
 				<section>
 					<div class="bloq_ban">
 						<article>
@@ -215,7 +192,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema administrativo panama" src="img/catalogo_proveedores.png">
+										<img class="img-responsive" alt="Sistema administrativo" src="img/catalogo_proveedores.png">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Encuentra todas las herramientas necesarias para trabajar con tu</h3>
@@ -282,7 +259,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de facturacion y cotizaciones" src="img/pedidos_cotizaiciones.png">
+										<img class="img-responsive" alt="Sistema de facturacion y cotizaciones" src="img/pedidos_cotizaciones.png">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Obtén un mejor cotrol de las ventas dentro de tu negocio</h3>
@@ -311,35 +288,13 @@
 
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Software de ventas panama" src="img/reporte_ventas.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Software de ventas" src="img/reporte_ventas.png" style="max-width: 200px;">
 									</div>
 								</div>
 							</div>
 						</article>
 					</div>
 				</section> 
-				<!--
-				<section>
-					<div class="imgbloq bloq3">
-						<article>
-							<div>
-								<div class="row">
-									<div class="col-lg-4">
-										<img class="img-responsive" alt="Sistema-Inventario-Web-Nube-Online-Panama" src="img/bancosycajas.png">
-									</div>
-									<div class="col-lg-8">
-										<h3 class="serv_tit1">Conoce tus balances bancarios en tiempo real</h3>
-										<h3 class="serv_tit2">Bancos y Cajas</h3>
-										<p>Organiza los bancos y cajas de tu negocio de manera integral.</p>
-										<br>
-										<p>Captura los pagos a proveedores y la cobranza de tus clientes y obten un control de los saldos en cuentas y cajas.</p>
-									</div>
-								</div>
-							</div>
-						</article>
-					</div>
-				</section>
-				-->
 				<section>
 					<div class="imgbloq bloq3">
 						<article>
@@ -400,7 +355,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de compras panama" src="img/reporte_compras.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Sistema de compras" src="img/reporte_compras.png" style="max-width: 200px;">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Genera reportes de las compras realizadas con solo un clic</h3>

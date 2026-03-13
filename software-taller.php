@@ -5,10 +5,6 @@
 <meta name="description" content="Sistema Administrativo Web, Gestiona y consulta tu informacion empresarial desde cualquier lugar y cualquier equipo.">
 <meta name="keywords" content="software administrativo,sistema para taller,sistema administrativo empresarial,control de inventarios,sistemas de inventarios">
 <meta name="DC.title" content="undefined" />
-<meta name="geo.region" content="PA-8" />
-<meta name="geo.placename" content="Panama Pacifico" />
-<meta name="geo.position" content="8.916154;-79.599672" />
-<meta name="ICBM" content="8.916154, -79.599672" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -28,11 +24,11 @@
       "name": "Cómo crear un Cliente",
       "description": "Registro y gestión de clientes en el sistema de taller de Sistemas ASM.",
       "thumbnailUrl": [
-        "https://www.sistemasasm.com/img/tutoriales/crear-cliente.jpg"
+		"https://www.sistemasasm.com/img/tutoriales/crear-cliente.png"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT3M45S",
-      "contentUrl": "https://www.sistemasasm.com/videos/como-crear-cliente.mp4",
+      "contentUrl": "https://www.sistemasasm.com/videos/crear-cliente.mp4",
       "embedUrl": "https://www.sistemasasm.com/software-taller.php#tutoriales-taller",
       "regionsAllowed": [
         "VE",
@@ -44,11 +40,11 @@
       "name": "Cómo crear un Artículo",
       "description": "Alta de artículos y repuestos con categorías, precios e impuestos.",
       "thumbnailUrl": [
-        "https://www.sistemasasm.com/img/tutoriales/crear-articulo.jpg"
+        "https://www.sistemasasm.com/img/tutoriales/crear-articulo-taller.png"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT4M20S",
-      "contentUrl": "https://www.sistemasasm.com/videos/como-crear-articulo.mp4",
+      "contentUrl": "https://www.sistemasasm.com/videos/crear-articulo-taller.mp4",
       "embedUrl": "https://www.sistemasasm.com/software-taller.php#tutoriales-taller",
       "regionsAllowed": [
         "VE",
@@ -60,11 +56,27 @@
       "name": "Cómo crear una Orden de Servicio",
       "description": "Generación y seguimiento de una Orden de Servicio para talleres mecánicos.",
       "thumbnailUrl": [
-        "https://www.sistemasasm.com/img/tutoriales/orden-servicio.jpg"
+        "https://www.sistemasasm.com/img/tutoriales/crear-orden-de-servicio-taller.png"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT6M10S",
-      "contentUrl": "https://www.sistemasasm.com/videos/como-crear-orden-servicio.mp4",
+      "contentUrl": "https://www.sistemasasm.com/videos/crear-orden-de-servicio-taller.mp4",
+      "embedUrl": "https://www.sistemasasm.com/software-taller.php#tutoriales-taller",
+      "regionsAllowed": [
+        "VE",
+        "PA"
+      ]
+    },
+	{
+      "@type": "VideoObject",
+      "name": "Cómo facturar una orden de servicio y pago",
+      "description": "Facturar una orden de servicio y crear el pago de cliente",
+      "thumbnailUrl": [
+        "https://www.sistemasasm.com/img/tutoriales/facturar-orden-de-servicio-taller.png"
+      ],
+      "uploadDate": "2025-11-03T00:38:38-04:00",
+      "duration": "PT6M10S",
+      "contentUrl": "https://www.sistemasasm.com/videos/facturar-orden-de-servicio-taller.mp4",
       "embedUrl": "https://www.sistemasasm.com/software-taller.php#tutoriales-taller",
       "regionsAllowed": [
         "VE",
@@ -448,10 +460,10 @@
 					<article>
 						<div class="row" style="padding: 5% 3% 6% 3%;">
 							<div class="col-lg-4 text-center">
-								<h3 style="margin:8px 0 6px;font-weight:600">Crear un Cliente</h3>
+								<h3 class="sr-only">Crear un Cliente</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/crear-cliente.jpg" width="100%">
-									<source src="videos/como-crear-cliente.mp4" type="video/mp4">
+									<video controls preload="metadata" poster="img/tutoriales/crear-cliente.png" width="100%">
+									<source src="videos/crear-cliente.mp4" type="video/mp4">
 									<track src="videos/subs/crear-cliente-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
@@ -462,10 +474,10 @@
 							</div>
 
 							<div class="col-lg-4 text-center">
-								<h3 style="margin:8px 0 6px;font-weight:600">Crear un Artículo</h3>
+								<h3 class="sr-only">Crear un Artículo</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/crear-articulo.jpg" width="100%">
-									<source src="videos/como-crear-articulo-tipo-servicio.mp4" type="video/mp4">
+									<video controls preload="metadata" poster="img/tutoriales/crear-articulo-taller.png" width="100%">
+									<source src="videos/crear-articulo-taller.mp4" type="video/mp4">
 									<track src="videos/subs/crear-articulo-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
@@ -474,17 +486,33 @@
 									</figcaption>
 								</figure>
 							</div>
-							
 							<div class="col-lg-4 text-center">
-								<h3 style="margin:8px 0 6px;font-weight:600">Crear Orden de Servicio</h3>
+								<h3 class="sr-only">Crear Orden de Servicio</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/orden-servicio.jpg" width="100%">
-									<source src="videos/como-crear-orden-servicio-taller.mp4" type="video/mp4">
+									<video controls preload="metadata" poster="img/tutoriales/crear-orden-de-servicio-taller.png" width="100%">
+									<source src="videos/crear-orden-de-servicio-taller.mp4" type="video/mp4">
 									<track src="videos/subs/orden-servicio-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
 									<figcaption style="padding:8px 10px;font-size:14px;color:#6b7280;background:#0b0b0b">
-									Generación y seguimiento de la Orden de Servicio: diagnóstico, mano de obra y repuestos.
+									Como crear Orden de Servicio: Servicio (Mano de Obra) y repuestos.
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+
+						<div class="row" style="padding: 0% 3% 6% 3%;">
+							<div class="col-lg-3 text-center"></div>
+							<div class="col-lg-6 text-center">
+								<h3 class="sr-only">Facturar Orden de Servicio y Pago</h3>
+								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
+									<video controls preload="metadata" poster="img/tutoriales/facturar-orden-de-servicio-taller.png" width="100%">
+									<source src="videos/facturar-orden-de-servicio-taller.mp4" type="video/mp4">
+									<track src="videos/subs/crear-cliente-es.vtt" kind="subtitles" srclang="es" label="Español">
+									Tu navegador no soporta video HTML5.
+									</video>
+									<figcaption style="padding:8px 10px;font-size:14px;color:#6b7280;background:#0b0b0b">
+									Como facturar una orden de Servicio y registrar el pago del cliente.
 									</figcaption>
 								</figure>
 							</div>
