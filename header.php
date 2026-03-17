@@ -40,6 +40,10 @@ $pagina_actual = basename($_SERVER['PHP_SELF']);
                       <a href="software-taller.php">Software de Taller</a>
                   </li>
 
+                  <li class="<?= ($pagina_actual == 'planes-precios.php') ? 'active' : '' ?>">
+                      <a href="planes-precios.php">Planes y Precios</a>
+                  </li>
+
                   <li class="<?= ($pagina_actual == 'contacto.php') ? 'active' : '' ?>">
                       <a href="contacto.php">Contacto</a>
                   </li>

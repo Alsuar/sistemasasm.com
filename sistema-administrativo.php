@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-<title>Servicios</title>
+<title>Sistema Administrativo</title>
 <style type="text/css">
 .navbar{
 	margin-bottom:0;
@@ -23,12 +23,7 @@
 	<main>
 		<div class="container servicios">
 			<div class="fblank thumbnail">
-				<div style="padding: 30px 40px 0 40px;">
-					<ul class="breadcrumb">
-						<li><a href="index.php">Inicio</a></li>
-						<li class="active">Sistema Administrativo</li>
-					</ul> 
-				</div>
+
 				<section>
 					<div class="imgbloq bloq">
 						<article>

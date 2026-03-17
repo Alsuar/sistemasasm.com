@@ -95,12 +95,6 @@
 	<main>
 		<div class="container servicios">
 			<div class="fblank thumbnail">
-				<div style="padding: 30px 40px 0 40px;">
-					<ul class="breadcrumb">
-						<li><a href="index.php">Inicio</a></li>
-						<li class="active">Sistema de Taller</li>
-					</ul> 
-				</div>
 				<section>
 					<div class="imgbloq bloq">
 						<article>
@@ -118,7 +112,6 @@
 										<p>Optimiza la eficiencia de tu taller mecánico con nuestro sistema de gestión integral. Mantén ordenadas todas las operaciones, desde la recepción de vehículos hasta la entrega final, gracias a un módulo de taller diseñado para simplificar y conectar cada proceso.</p>
 									</div>
 								</div>
-						
 							</div>
 						</article>
 					</div>
@@ -145,7 +138,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-7">
-										<h3 class="serv_tit1">Cumple con los requisitos legales de Panamá</h3>
+										<h3 class="serv_tit1">Cumple con los requisitos legales</h3>
 										<h3 class="serv_tit2">Facturación Electrónica</h3>
 										<br/>
 										<p>Solución de facturación electrónica integrada. Simplifica el proceso de emisión de facturas y mantén la documentación en orden, utilizando un software diseñado específicamente para adaptarse a las normativas locales.</p>

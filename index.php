@@ -60,7 +60,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/gestion_inventario.png" alt="Soluciones en la nube desarrollo web"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.png" alt="Soluciones en la nube desarrollo web"></a>
 									<h3>GESTIÓN DE INVENTARIOS</h3>
 									<p class="leadtxt">Sincroniza tu inventario, no más hojas de Excel</p>
 								</div>
@@ -69,7 +69,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/gestion_ordenes.png" alt="Ordenes de Compra y Venta con nuestro sistema de ventas"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.png" alt="Ordenes de Compra y Venta con nuestro sistema de ventas"></a>
 									<h3>GESTION DE ORDENES</h3>
 									<p class="leadtxt">Crea órdenes de compra/venta, facturas y notas de venta</p>
 								</div>
@@ -78,7 +78,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/taller.png" alt="Sistema de Gestion de Taller"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/taller.png" alt="Sistema de Gestion de Taller"></a>
 									<h3>MÓDULO DE TALLER</h3>
 									<p class="leadtxt">Aumenta la productividad, la eficacia y los ingresos con nuestro Sistema de Taller.</p>
 								</div>
@@ -87,7 +87,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/reportes.png" alt="Sistema de inventario web base de datos online"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.png" alt="Sistema de inventario web base de datos online"></a>
 									<h3>REPORTES INTELIGENTES</h3>
 									<p class="leadtxt">Conoce los productos mejor vendidos, optimiza, rastrea, toma mejores decisiones de negocio</p>
 								</div>
@@ -98,7 +98,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/gestion_almacenes.png" alt="Gestion de almacenes, sistema de inventarios"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.png" alt="Gestion de almacenes, sistema de inventarios"></a>
 									<h3>GESTIÓN DE ALMACENES</h3>
 									<p class="leadtxt">Optimiza tu cadena de valor, integrando todos tus almacenes en un solo lugar</p>
 								</div>
@@ -107,7 +107,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/clientes.png" alt="Sistema de ventas y Gestión de Clientes"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.png" alt="Sistema de ventas y Gestión de Clientes"></a>
 									<h3>GESTIÓN DE CLIENTES</h3>
 									<p class="leadtxt">Maneja la relación con tus clientes facilmente y en un solo lugar</p>
 								</div>
@@ -116,7 +116,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/bancos.png" alt="sistema de ventas - Cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.png" alt="sistema de ventas - Cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
 									<h3>GESTIÓN DE BANCOS</h3>
 									<p class="leadtxt">Controla tus egresos e ingresos sincronizados a tus cuentas de banco</p>
 								</div>
@@ -125,7 +125,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/dispositivos.png" alt="Sistema de inventario web base de datos online"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.png" alt="Sistema de inventario web base de datos online"></a>
 									<h3>TODOS TUS DISPOSITIVOS</h3>
 									<p class="leadtxt">Úsalo desde tu smartphone, tablet o computadora de escritorio</p>
 								</div>
@@ -136,7 +136,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/proovedores.png" alt="Sistema de Ventas y gestion de proveedores"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.png" alt="Sistema de Ventas y gestion de proveedores"></a>
 									<h3>GESTIÓN DE PROVEEDORES</h3>
 									<p class="leadtxt">Mantén la información de tus proveedores siempre a la mano.</p>
 								</div>
@@ -145,7 +145,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/sucursales.png" alt="Gestion de Sucursales con nuestro sistema de ventas e inventarios"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.png" alt="Gestion de Sucursales con nuestro sistema de ventas e inventarios"></a>
 									<h3>GESTIÓN DE SUCURSALES</h3>
 									<p class="leadtxt">Sincroniza todas tus sucursales en un sólo lugar</p>
 								</div>
@@ -154,7 +154,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/sistema_online.png" alt="Soluciones en la nube desarrollo web" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.png" alt="Soluciones en la nube desarrollo web" height="140" width="140"></a>
 									<h3>100% EN LA NUBE</h3>
 									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexion a Internet.</p>
 								</div>
@@ -163,7 +163,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="facturacion-pos.php"><img src="img/iconos/soporte.png" alt="Sistema de inventario web base de datos online"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.png" alt="Sistema de inventario web base de datos online"></a>
 									<h3>SOPORTE REMOTO Y PRESENCIAL</h3>
 									<p class="leadtxt">Sea cual sea tu problema, nos encargaremos que sea el nuestro</p>
 								</div>

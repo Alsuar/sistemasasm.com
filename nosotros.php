@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="DC.title" content="undefined" />
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
-<title>Sistemas Asm-software administrativo-Inventario-camaras de seguridad</title>
+<title>Quienes Somos</title>
 <style type="text/css">
 .navbar{
 	margin-bottom:0;
