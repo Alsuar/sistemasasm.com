@@ -2,15 +2,13 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Sistemas Asm tu mejor opcion en soluciones tecnologicas">
-	<meta name="keywords" content="software administrativo,factura electronica panama,sistema para taller,empresas al por mayor,sistema de facturacion">
-	<meta name="DC.title" content="undefined" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="canonical" href="https://www.sistemasasm.com/"/>
 	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-	<title>Sistema Administrativo</title>
+	<title>Software Administrativo en la Nube para Inventario y Facturación | Sistemas ASM</title>
+	<meta name="description" content="Sistema administrativo en la nube para gestionar inventario, ventas, clientes, bancos, sucursales y facturación electrónica en Panamá y Venezuela.">
 </head>
 <body>
 	<?php include_once("analyticstracking.php") ?>

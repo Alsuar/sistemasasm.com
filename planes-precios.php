@@ -2,13 +2,10 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-<meta name="description" content="Sistemas Asm tu mejor opcion en soluciones tecnologicas">
-<meta name="keywords" content="sistema administrativo,sistema de inventario, sistema para taller">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="DC.title" content="undefined" />
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
-<title>Planes y Precios</title>
-<!-- <link rel="StyleSheet" href="estilos.css" type="text/css"> -->
+<title>Planes y Precios del Software Administrativo en la Nube | Sistemas ASM</title>
+<meta name="description" content="Conozca los planes mensuales y anuales de Sistemas ASM para administrar inventario, ventas, sucursales, usuarios, soporte y capacitación.">
 </head>
 <body> 
     <?php include_once("analyticstracking.php") ?>

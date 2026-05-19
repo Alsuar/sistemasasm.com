@@ -2,13 +2,11 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-<meta name="description" content="Sistema Administrativo Web, Gestiona y consulta tu informacion empresarial desde cualquier lugar y cualquier equipo.">
-<meta name="keywords" content="software administrativo,sistema para taller,sistema administrativo empresarial,control de inventarios,sistemas de inventarios">
-<meta name="DC.title" content="undefined" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-<title>Sistema de Taller</title>
+<title>Software para Taller Mecánico con Inventario y Facturación | Sistemas ASM</title>
+<meta name="description" content="Sistema para talleres mecánicos con órdenes de servicio, control de repuestos, inventario, clientes, ventas y facturación electrónica integrada.">
 <style type="text/css">
 .navbar{
 	margin-bottom:0;

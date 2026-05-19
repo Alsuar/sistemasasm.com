@@ -2,12 +2,10 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-<meta name="description" content="Sistemas Asm tu mejor opcion en soluciones tecnologicas">
-<meta name="keywords" content="software administrativo,programas administrativos,sistema de inventario, sistema para taller, factura electronica panama">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="DC.title" content="undefined" />
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
-<title>Quienes Somos</title>
+<title>Sobre Sistemas ASM | Software Administrativo para Empresas</title>
+<meta name="description" content="Conozca Sistemas ASM, empresa dedicada a soluciones tecnológicas, automatización comercial y software administrativo para mejorar la gestión empresarial.">
 <style type="text/css">
 .navbar{
 	margin-bottom:0;

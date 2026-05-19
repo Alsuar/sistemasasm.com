@@ -2,13 +2,11 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-<meta name="description" content="Sistema Administrativo Web, Gestiona y consulta tu informacion empresarial desde cualquier lugar y cualquier equipo.">
-<meta name="keywords" content="software administrativo,sistema para taller,sistema administrativo empresarial,control de inventarios,sistemas de inventarios">
-<meta name="DC.title" content="undefined" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-<title>Sistema Administrativo</title>
+<title>Sistema Administrativo para Inventario, Ventas y Facturación Electrónica | Sistemas ASM</title>
+<meta name="description" content="Controle inventario, ventas, clientes, proveedores, almacenes y sucursales con un sistema administrativo en la nube con facturación electrónica para empresas.">
 <style type="text/css">
 .navbar{
 	margin-bottom:0;
