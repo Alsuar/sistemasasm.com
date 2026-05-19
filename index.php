@@ -151,7 +151,7 @@
 								<div>
 									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.png" alt="Gestión de sucursales con sistema de ventas e inventario"></a>
 									<h3>GESTIÓN DE SUCURSALES</h3>
-									<p class="leadtxt">Sincroniza todas tus sucursales en un sólo lugar</p>
+									<p class="leadtxt">Sincroniza todas tus sucursales en un solo lugar</p>
 								</div>
 							</div>
 						</article>
@@ -217,7 +217,7 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="">
-								<h2 style="color:#ffffff; font-size: 2.7em;" class="text-center">Estás a 5 minutos de llevar tu Empresa a la nube</h2>
+								<h2 style="color:#ffffff; font-size: 2.7em;" class="text-center">Estás a 5 minutos de llevar tu empresa a la nube</h2>
 								<h4 style="color:#ffffff" class="text-center">Regístrate y solicita una prueba gratis y mejora tu administración a partir de hoy mismo</h4> </div>
 						</div>
 					</div>
