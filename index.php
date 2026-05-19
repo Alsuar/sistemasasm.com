@@ -22,7 +22,7 @@
 			<div id="existencia">
 				<?php include('modal_contacto.php'); ?> </div>
 			<section>
-				<div class="image"> <img src="img/home_sistemasasm.png" alt="Sistemas ASM" class="img-responsive">
+				<div class="image"> <img src="img/home_sistemasasm.png" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive">
 				<h2 class="hero-banner-text">
 					<span class="hero-kicker">EMPRESAS MODERNAS, SOLUCIONES INTELIGENTES</span>
 
@@ -44,13 +44,29 @@
 				</div>
 			</section>
 			<div class="tagline">
-				<h1>Sistema Administrativo en la Nube</h1> </div>
+				<h1>Software Administrativo en la Nube para Inventario, Ventas y Facturación</h1>
+			</div>
 			<div class="container marketing">
 				<div class="featuretit">
 					<div class="row">
-						<div class="col-lg-12">
+						<!--<div class="col-lg-12">
 							<h3>Sistema Administrativo y Gestión de Inventarios, Especialmente diseñado para Administrar tu Restaurante, Ferreterias, Comercio Minorista, Salas de Belleza, Taller Mecanico Automotriz, Servicio Técnico y mucho mas.</h3> 
+						
+							<h2>Sistemas ASM centraliza la gestión de tu empresa en una sola plataforma.</h2>
+							<p>
+								Controla inventario, ventas, clientes, proveedores, bancos, sucursales, reportes y facturación electrónica desde cualquier lugar. 
+								Nuestro software administrativo está diseñado para empresas que necesitan trabajar de forma organizada, rápida y segura en Panamá y Venezuela.
+							</p>
+						</div>-->
+
+						<div class="col-lg-12">
+							<p class="intro-home">
+								Sistemas ASM centraliza la gestión de tu empresa en una sola plataforma. 
+								Controla inventario, ventas, clientes, proveedores, bancos, sucursales, reportes y facturación electrónica desde cualquier lugar. 
+								Nuestro software administrativo está diseñado para empresas que necesitan trabajar de forma organizada, rápida y segura en Panamá y Venezuela.
+							</p>
 						</div>
+
 					</div>
 				</div>
 				<section class="features">
@@ -58,7 +74,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.png" alt="Soluciones en la nube desarrollo web"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.png" alt="Gestión de inventario con software administrativo en la nube"></a>
 									<h3>GESTIÓN DE INVENTARIOS</h3>
 									<p class="leadtxt">Sincroniza tu inventario, no más hojas de Excel</p>
 								</div>
@@ -67,8 +83,8 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.png" alt="Ordenes de Compra y Venta con nuestro sistema de ventas"></a>
-									<h3>GESTION DE ORDENES</h3>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.png" alt="Gestión de órdenes de compra y venta en Sistemas ASM"></a>
+									<h3>GESTIÓN DE ÓRDENES</h3>
 									<p class="leadtxt">Crea órdenes de compra/venta, facturas y notas de venta</p>
 								</div>
 							</div>
@@ -76,7 +92,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/taller.png" alt="Sistema de Gestion de Taller"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/taller.png" alt="Módulo de taller mecánico con órdenes de servicio"></a>
 									<h3>MÓDULO DE TALLER</h3>
 									<p class="leadtxt">Aumenta la productividad, la eficacia y los ingresos con nuestro Sistema de Taller.</p>
 								</div>
@@ -85,7 +101,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.png" alt="Sistema de inventario web base de datos online"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.png" alt="Reportes inteligentes de ventas e inventario"></a>
 									<h3>REPORTES INTELIGENTES</h3>
 									<p class="leadtxt">Conoce los productos mejor vendidos, optimiza, rastrea, toma mejores decisiones de negocio</p>
 								</div>
@@ -96,7 +112,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.png" alt="Gestion de almacenes, sistema de inventarios"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.png" alt="Gestión de almacenes y sucursales en la nube"></a>
 									<h3>GESTIÓN DE ALMACENES</h3>
 									<p class="leadtxt">Optimiza tu cadena de valor, integrando todos tus almacenes en un solo lugar</p>
 								</div>
@@ -105,16 +121,16 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.png" alt="Sistema de ventas y Gestión de Clientes"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.png" alt="Gestión de clientes en software administrativo"></a>
 									<h3>GESTIÓN DE CLIENTES</h3>
-									<p class="leadtxt">Maneja la relación con tus clientes facilmente y en un solo lugar</p>
+									<p class="leadtxt">Gestiona la relación con tus clientes fácilmente y en un solo lugar.</p>
 								</div>
 							</div>
 						</article>
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.png" alt="sistema de ventas - Cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.png" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
 									<h3>GESTIÓN DE BANCOS</h3>
 									<p class="leadtxt">Controla tus egresos e ingresos sincronizados a tus cuentas de banco</p>
 								</div>
@@ -123,7 +139,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.png" alt="Sistema de inventario web base de datos online"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.png" alt="Software administrativo compatible con computadora tablet y celular"></a>
 									<h3>TODOS TUS DISPOSITIVOS</h3>
 									<p class="leadtxt">Úsalo desde tu smartphone, tablet o computadora de escritorio</p>
 								</div>
@@ -152,16 +168,16 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.png" alt="Soluciones en la nube desarrollo web" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.png" alt="Sistema administrativo 100% en la nube" height="140" width="140"></a>
 									<h3>100% EN LA NUBE</h3>
-									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexion a Internet.</p>
+									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexión a Internet.</p>
 								</div>
 							</div>
 						</article>
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.png" alt="Sistema de inventario web base de datos online"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.png" alt="Soporte remoto y presencial para empresas"></a>
 									<h3>SOPORTE REMOTO Y PRESENCIAL</h3>
 									<p class="leadtxt">Sea cual sea tu problema, nos encargaremos que sea el nuestro</p>
 								</div>
@@ -176,7 +192,7 @@
 						<div class="col-lg-4">
 							<div class="row">
 								<div class="col-lg-12">
-									<h3>UNA SOLUCION EFICIENTE DE SERVICIO EN LA NUBE</h3>
+									<h3>UNA SOLUCIÓN EFICIENTE DE SERVICIO EN LA NUBE</h3>
 									<ul>
 										<li><img src="img/iconos/greencheck-whitebg.png"> Mínima configuración, sin equipamiento extra.</li>
 										<li><img src="img/iconos/greencheck-whitebg.png"> Aumente o disminuya acorde a sus</li>
@@ -187,10 +203,10 @@
 							</div>
 							<div class="row">
 								<div class="col-lg-12">
-									<h3>REALMENTE FACIL DE USAR</h3>
+									<h3>REALMENTE FÁCIL DE USAR</h3>
 									<ul>
 										<li><img src="img/iconos/greencheck-whitebg.png"> Rico en aplicaciones y con un diseño intuitivo.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Realmente rápido a traves de múltiples</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Realmente rápido a través de múltiples</li>
 										<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dispositivos.</li>
 										<li><img src="img/iconos/greencheck-whitebg.png"> Fácil de aprender, sencillo de disfrutar.</li>
 									</ul>
@@ -206,7 +222,7 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="">
-								<h2 style="color:#ffffff; font-size: 2.7em;" class="text-center">Estas a 5 minutos de llevar tu Empresa a la nube</h2>
+								<h2 style="color:#ffffff; font-size: 2.7em;" class="text-center">Estás a 5 minutos de llevar tu Empresa a la nube</h2>
 								<h4 style="color:#ffffff" class="text-center">Regístrate y solicita una prueba gratis y mejora tu administración a partir de hoy mismo</h4> </div>
 						</div>
 					</div>
@@ -218,7 +234,7 @@
 									<div class="input-group margin-bottom-20"> <span class="input-group-addon" style="padding: 0 12px; background-color: #ffffff;"> <i class="glyphicon glyphicon-envelope"></i> </span> <input type="email" name="email" id="email" ng-model="email" class="form-control" placeholder="Email"> </div>
 									<div class="input-group margin-bottom-20"> <span class="input-group-addon" style="padding: 0 12px; background-color: #ffffff;"> <i class="glyphicon glyphicon-phone"></i> </span> <input type="number" name="telefono" id="telefono" ng-model="telefono" class="form-control" placeholder="Número"> </div>
 									<div class="input-group margin-bottom-20"> <span class="input-group-addon" style="padding: 0 12px; background-color: #ffffff;"> <i class="glyphicon glyphicon-comment"></i> </span> <textarea class="form-control" id="mensaje" placeholder="Mensaje"></textarea> </div>
-									<div class="pull-right margin-bottom-20"> <button type="button" id="btn_contacto" class="btn btn-primary">Contactanos</button> </div>
+									<div class="pull-right margin-bottom-20"> <button type="button" id="btn_contacto" class="btn btn-primary">Contáctanos</button> </div>
 									<div> <span style="color: red;" class="ng-binding"></span> </div>
 								</div>
 							</form>
