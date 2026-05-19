@@ -49,16 +49,6 @@
 			<div class="container marketing">
 				<div class="featuretit">
 					<div class="row">
-						<!--<div class="col-lg-12">
-							<h3>Sistema Administrativo y Gestión de Inventarios, Especialmente diseñado para Administrar tu Restaurante, Ferreterias, Comercio Minorista, Salas de Belleza, Taller Mecanico Automotriz, Servicio Técnico y mucho mas.</h3> 
-						
-							<h2>Sistemas ASM centraliza la gestión de tu empresa en una sola plataforma.</h2>
-							<p>
-								Controla inventario, ventas, clientes, proveedores, bancos, sucursales, reportes y facturación electrónica desde cualquier lugar. 
-								Nuestro software administrativo está diseñado para empresas que necesitan trabajar de forma organizada, rápida y segura en Panamá y Venezuela.
-							</p>
-						</div>-->
-
 						<div class="col-lg-12">
 							<p class="intro-home">
 								Sistemas ASM centraliza la gestión de tu empresa en una sola plataforma. 
@@ -76,7 +66,7 @@
 								<div>
 									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.png" alt="Gestión de inventario con software administrativo en la nube"></a>
 									<h3>GESTIÓN DE INVENTARIOS</h3>
-									<p class="leadtxt">Sincroniza tu inventario, no más hojas de Excel</p>
+									<p class="leadtxt">Controla existencias, movimientos y productos sin depender de hojas de Excel.</p>
 								</div>
 							</div>
 						</article>
@@ -85,7 +75,7 @@
 								<div>
 									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.png" alt="Gestión de órdenes de compra y venta en Sistemas ASM"></a>
 									<h3>GESTIÓN DE ÓRDENES</h3>
-									<p class="leadtxt">Crea órdenes de compra/venta, facturas y notas de venta</p>
+									<p class="leadtxt">Crea órdenes de compra, ventas, facturas y notas de entrega de forma rápida.</p>
 								</div>
 							</div>
 						</article>
@@ -103,7 +93,7 @@
 								<div>
 									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.png" alt="Reportes inteligentes de ventas e inventario"></a>
 									<h3>REPORTES INTELIGENTES</h3>
-									<p class="leadtxt">Conoce los productos mejor vendidos, optimiza, rastrea, toma mejores decisiones de negocio</p>
+									<p class="leadtxt">Consulta ventas, productos destacados e indicadores para tomar mejores decisiones.</p>
 								</div>
 							</div>
 						</article>
@@ -132,7 +122,7 @@
 								<div>
 									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.png" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
 									<h3>GESTIÓN DE BANCOS</h3>
-									<p class="leadtxt">Controla tus egresos e ingresos sincronizados a tus cuentas de banco</p>
+									<p class="leadtxt">Controla ingresos, egresos, cuentas por cobrar y cuentas por pagar.</p>
 								</div>
 							</div>
 						</article>
@@ -150,7 +140,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.png" alt="Sistema de Ventas y gestion de proveedores"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.png" alt="Gestión de proveedores en software administrativo"></a>
 									<h3>GESTIÓN DE PROVEEDORES</h3>
 									<p class="leadtxt">Mantén la información de tus proveedores siempre a la mano.</p>
 								</div>
@@ -159,7 +149,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.png" alt="Gestion de Sucursales con nuestro sistema de ventas e inventarios"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.png" alt="Gestión de sucursales con sistema de ventas e inventario"></a>
 									<h3>GESTIÓN DE SUCURSALES</h3>
 									<p class="leadtxt">Sincroniza todas tus sucursales en un sólo lugar</p>
 								</div>
@@ -179,41 +169,46 @@
 								<div>
 									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.png" alt="Soporte remoto y presencial para empresas"></a>
 									<h3>SOPORTE REMOTO Y PRESENCIAL</h3>
-									<p class="leadtxt">Sea cual sea tu problema, nos encargaremos que sea el nuestro</p>
+									<p class="leadtxt">Recibe acompañamiento, capacitación y soporte para usar mejor el sistema.</p>
 								</div>
 							</div>
 						</article>
 					</div>
 				</section>
 			</div>
+
 			<section>
 				<div class="bloq1">
 					<div class="row">
-						<div class="col-lg-4">
+						<div class="col-lg-5">
 							<div class="row">
 								<div class="col-lg-12">
-									<h3>UNA SOLUCIÓN EFICIENTE DE SERVICIO EN LA NUBE</h3>
+									<h3>UNA PLATAFORMA PARA CONTROLAR TU EMPRESA</h3>
 									<ul>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Mínima configuración, sin equipamiento extra.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Aumente o disminuya acorde a sus</li>
-										<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;necesidades.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Precios Competitivos.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Inventario, ventas, clientes y proveedores conectados.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Gestión de almacenes, sucursales y bancos en un solo lugar.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Reportes para tomar mejores decisiones de negocio.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Acceso desde la nube sin instalaciones complejas.</li>
 									</ul>
 								</div>
 							</div>
+
 							<div class="row">
 								<div class="col-lg-12">
-									<h3>REALMENTE FÁCIL DE USAR</h3>
+									<h3>DISEÑADO PARA CRECER CON TU NEGOCIO</h3>
 									<ul>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Rico en aplicaciones y con un diseño intuitivo.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Realmente rápido a través de múltiples</li>
-										<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dispositivos.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Fácil de aprender, sencillo de disfrutar.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Ideal para empresas que necesitan orden y control administrativo.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Compatible con computadora, tablet y teléfono celular.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Soporte y capacitación para acompañar a tu equipo.</li>
+										<li><img src="img/iconos/greencheck-whitebg.png"> Solución disponible para empresas en Panamá y Venezuela.</li>
 									</ul>
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-8"> <img src="img/multi-dispositivos.png" alt="Sistema de inventario web base de datos online" class="img-responsive"> </div>
+
+						<div class="col-lg-7">
+							<img src="img/multi-dispositivosv2.png" alt="Software administrativo en la nube para múltiples dispositivos" class="img-responsive">
+						</div>
 					</div>
 				</div>
 			</section>
