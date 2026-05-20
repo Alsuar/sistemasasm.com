@@ -51,7 +51,7 @@
                 <div class="textpad">
                     <div class="row">
                        <div class="col-lg-12">
-                            <img src="img/banner_nosotros.png" alt="Exito-Panama-Trabajo-Desarrollo-Web-Online-Empresas-Tecnologia-Sistemas" 
+                            <img src="img/banner_nosotros.webp" alt="Exito-Panama-Trabajo-Desarrollo-Web-Online-Empresas-Tecnologia-Sistemas" 
                                  class="img-rounded img-responsive center-block">
                        </div>
                     </div>

@@ -22,7 +22,10 @@
 			<div id="existencia">
 				<?php include('modal_contacto.php'); ?> </div>
 			<section>
-				<div class="image"> <img src="img/home_sistemasasm.png" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive">
+				<div class="image"> 
+				<!--<img src="img/home_sistemasasm.webp" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive">-->
+				<img src="img/home_sistemasasm.webp" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive home-banner-img" width="1052" height="244" fetchpriority="high">
+
 				<h2 class="hero-banner-text">
 					<span class="hero-kicker">EMPRESAS MODERNAS, SOLUCIONES INTELIGENTES</span>
 
@@ -64,7 +67,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.png" alt="Gestión de inventario con software administrativo en la nube"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.webp" alt="Gestión de inventario con software administrativo en la nube"></a>
 									<h3>GESTIÓN DE INVENTARIOS</h3>
 									<p class="leadtxt">Controla existencias, movimientos y productos sin depender de hojas de Excel.</p>
 								</div>
@@ -73,7 +76,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.png" alt="Gestión de órdenes de compra y venta en Sistemas ASM"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.webp" alt="Gestión de órdenes de compra y venta en Sistemas ASM"></a>
 									<h3>GESTIÓN DE ÓRDENES</h3>
 									<p class="leadtxt">Crea órdenes de compra, ventas, facturas y notas de entrega de forma rápida.</p>
 								</div>
@@ -82,7 +85,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/taller.png" alt="Módulo de taller mecánico con órdenes de servicio"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/taller.webp" alt="Módulo de taller mecánico con órdenes de servicio"></a>
 									<h3>MÓDULO DE TALLER</h3>
 									<p class="leadtxt">Aumenta la productividad, la eficacia y los ingresos con nuestro Sistema de Taller.</p>
 								</div>
@@ -91,7 +94,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.png" alt="Reportes inteligentes de ventas e inventario"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.webp" alt="Reportes inteligentes de ventas e inventario"></a>
 									<h3>REPORTES INTELIGENTES</h3>
 									<p class="leadtxt">Consulta ventas, productos destacados e indicadores para tomar mejores decisiones.</p>
 								</div>
@@ -102,7 +105,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.png" alt="Gestión de almacenes y sucursales en la nube"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.webp" alt="Gestión de almacenes y sucursales en la nube"></a>
 									<h3>GESTIÓN DE ALMACENES</h3>
 									<p class="leadtxt">Optimiza tu cadena de valor, integrando todos tus almacenes en un solo lugar</p>
 								</div>
@@ -111,7 +114,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.png" alt="Gestión de clientes en software administrativo"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.webp" alt="Gestión de clientes en software administrativo"></a>
 									<h3>GESTIÓN DE CLIENTES</h3>
 									<p class="leadtxt">Gestiona la relación con tus clientes fácilmente y en un solo lugar.</p>
 								</div>
@@ -120,7 +123,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.png" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.webp" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
 									<h3>GESTIÓN DE BANCOS</h3>
 									<p class="leadtxt">Controla ingresos, egresos, cuentas por cobrar y cuentas por pagar.</p>
 								</div>
@@ -129,7 +132,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.png" alt="Software administrativo compatible con computadora tablet y celular"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.webp" alt="Software administrativo compatible con computadora tablet y celular"></a>
 									<h3>TODOS TUS DISPOSITIVOS</h3>
 									<p class="leadtxt">Úsalo desde tu smartphone, tablet o computadora de escritorio</p>
 								</div>
@@ -140,7 +143,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.png" alt="Gestión de proveedores en software administrativo"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.webp" alt="Gestión de proveedores en software administrativo"></a>
 									<h3>GESTIÓN DE PROVEEDORES</h3>
 									<p class="leadtxt">Mantén la información de tus proveedores siempre a la mano.</p>
 								</div>
@@ -149,7 +152,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.png" alt="Gestión de sucursales con sistema de ventas e inventario"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.webp" alt="Gestión de sucursales con sistema de ventas e inventario"></a>
 									<h3>GESTIÓN DE SUCURSALES</h3>
 									<p class="leadtxt">Sincroniza todas tus sucursales en un solo lugar</p>
 								</div>
@@ -158,7 +161,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.png" alt="Sistema administrativo 100% en la nube" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.webp" alt="Sistema administrativo 100% en la nube" height="140" width="140"></a>
 									<h3>100% EN LA NUBE</h3>
 									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexión a Internet.</p>
 								</div>
@@ -167,7 +170,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.png" alt="Soporte remoto y presencial para empresas"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.webp" alt="Soporte remoto y presencial para empresas"></a>
 									<h3>SOPORTE REMOTO Y PRESENCIAL</h3>
 									<p class="leadtxt">Recibe acompañamiento, capacitación y soporte para usar mejor el sistema.</p>
 								</div>
@@ -185,10 +188,10 @@
 								<div class="col-lg-12">
 									<h3>UNA PLATAFORMA PARA CONTROLAR TU EMPRESA</h3>
 									<ul>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Inventario, ventas, clientes y proveedores conectados.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Gestión de almacenes, sucursales y bancos en un solo lugar.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Reportes para tomar mejores decisiones de negocio.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Acceso desde la nube sin instalaciones complejas.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Inventario, ventas, clientes y proveedores conectados.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Gestión de almacenes, sucursales y bancos en un solo lugar.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Reportes para tomar mejores decisiones de negocio.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Acceso desde la nube sin instalaciones complejas.</li>
 									</ul>
 								</div>
 							</div>
@@ -197,17 +200,17 @@
 								<div class="col-lg-12">
 									<h3>DISEÑADO PARA CRECER CON TU NEGOCIO</h3>
 									<ul>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Ideal para empresas que necesitan orden y control administrativo.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Compatible con computadora, tablet y teléfono celular.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Soporte y capacitación para acompañar a tu equipo.</li>
-										<li><img src="img/iconos/greencheck-whitebg.png"> Solución disponible para empresas en Panamá y Venezuela.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Ideal para empresas que necesitan orden y control administrativo.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Compatible con computadora, tablet y teléfono celular.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Soporte y capacitación para acompañar a tu equipo.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp"> Solución disponible para empresas en Panamá y Venezuela.</li>
 									</ul>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-lg-7">
-							<img src="img/multi-dispositivosv2.png" alt="Software administrativo en la nube para múltiples dispositivos" class="img-responsive">
+							<img src="img/multi-dispositivosv2.webp" alt="Software administrativo en la nube para múltiples dispositivos" class="img-responsive">
 						</div>
 					</div>
 				</div>
