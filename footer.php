@@ -3,9 +3,7 @@
 <div class="container">
 	<div class="row footer">
 		<br>
-		<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-			<!--<img class="img-responsive center-block" src="img/logo125x60.png" alt="sistema de inventario, sistema de taller, punto de venta android pos">-->
-		</div>
+		<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12"></div>
 		<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-center">
 			<ul class="list-inline">
 				<li class="active borright"><a href="index.php"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio&nbsp;</a></li>
@@ -16,7 +14,7 @@
 				<li><a href="contacto.php">Contacto</a></li>
 			</ul>
 			<span class="textfoot">
-				Copyright © 2016 Sistemas Asm - Automatización Comercial. Todos los derechos reservados.
+				Copyright © 2026 Sistemas ASM - Automatización Comercial. Todos los derechos reservados.
 			</span>
 			<br>
 			<br>
