@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="https://www.sistemasasm.com/sistema-administrativo.php"/>
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 <title>Sistema Administrativo para Inventario, Ventas y Facturación Electrónica | Sistemas ASM</title>

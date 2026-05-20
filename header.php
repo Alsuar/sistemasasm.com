@@ -48,15 +48,6 @@ $pagina_actual = basename($_SERVER['PHP_SELF']);
                       <a href="contacto.php">Contacto</a>
                   </li>
                 </ul>
-              
-                <form action="#" class="navbar-form navbar-right" role="search">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Buscar" />
-                  </div>
-                  <button type="submit" class="btn btn-default">
-                  	<span class="glyphicon glyphicon-search"></span>
-                  </button>
-                </form>
               </div>
          </div>     
       </nav>

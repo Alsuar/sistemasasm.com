@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="https://www.sistemasasm.com/planes-precios.php"/>
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <title>Planes y Precios del Software Administrativo en la Nube | Sistemas ASM</title>
 <meta name="description" content="Conozca los planes mensuales y anuales de Sistemas ASM para administrar inventario, ventas, sucursales, usuarios, soporte y capacitación.">

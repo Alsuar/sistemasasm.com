@@ -10,7 +10,9 @@
 			<ul class="list-inline">
 				<li class="active borright"><a href="index.php"><span class="glyphicon glyphicon-home"></span>&nbsp;Inicio&nbsp;</a></li>
 				<li class="borright"><a href="nosotros.php">Nosotros&nbsp;</a></li>
-				<li class="borright"><a href="facturacion-pos.php">Sistema Administrativo&nbsp;</a></li>
+				<li class="borright"><a href="sistema-administrativo.php">Sistema Administrativo&nbsp;</a></li>
+				<li class="borright"><a href="software-taller.php">Software de Taller&nbsp;</a></li>
+				<li class="borright"><a href="planes-precios.php">Planes y Precios&nbsp;</a></li>
 				<li><a href="contacto.php">Contacto</a></li>
 			</ul>
 			<span class="textfoot">

@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="https://www.sistemasasm.com/contacto.php"/>
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <title>Contacto | Software Administrativo en Panamá y Venezuela | Sistemas ASM</title>
 <meta name="description" content="Contacte a Sistemas ASM para solicitar una demo del software administrativo, sistema de inventario, facturación electrónica y soluciones para empresas.">

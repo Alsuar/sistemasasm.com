@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="https://www.sistemasasm.com/nosotros.php"/>
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 <title>Sobre Sistemas ASM | Software Administrativo para Empresas</title>
 <meta name="description" content="Conozca Sistemas ASM, empresa dedicada a soluciones tecnológicas, automatización comercial y software administrativo para mejorar la gestión empresarial.">
