@@ -844,3 +844,14 @@ hr{
     height: auto;
     display: block;
 }
+
+.titulo-bloq2 {
+    color: #18264a;
+    font-size: 2.7em;
+    font-weight: 600;
+}
+
+.subtitulo-bloq2 {
+    color: #18264a;
+    font-weight: 500;
+}

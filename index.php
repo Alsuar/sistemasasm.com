@@ -189,10 +189,10 @@
 								<div class="col-lg-12">
 									<h3>UNA PLATAFORMA PARA CONTROLAR TU EMPRESA</h3>
 									<ul>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Inventario, ventas, clientes y proveedores conectados.</li>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Gestión de almacenes, sucursales y bancos en un solo lugar.</li>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Reportes para tomar mejores decisiones de negocio.</li>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Acceso desde la nube sin instalaciones complejas.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Inventario, ventas, clientes y proveedores conectados.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Gestión de almacenes, sucursales y bancos en un solo lugar.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Reportes para tomar mejores decisiones de negocio.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Acceso desde la nube sin instalaciones complejas.</li>
 									</ul>
 								</div>
 							</div>
@@ -201,10 +201,10 @@
 								<div class="col-lg-12">
 									<h3>DISEÑADO PARA CRECER CON TU NEGOCIO</h3>
 									<ul>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Ideal para empresas que necesitan orden y control administrativo.</li>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Compatible con computadora, tablet y teléfono celular.</li>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Soporte y capacitación para acompañar a tu equipo.</li>
-										<li><img src="img/iconos/greencheck-whitebg.webp"> Solución disponible para empresas en Panamá y Venezuela.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Ideal para empresas que necesitan orden y control administrativo.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Compatible con computadora, tablet y teléfono celular.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Soporte y capacitación para acompañar a tu equipo.</li>
+										<li><img src="img/iconos/greencheck-whitebg.webp" alt="" aria-hidden="true" width="16" height="16" loading="lazy"> Solución disponible para empresas en Panamá y Venezuela.</li>
 									</ul>
 								</div>
 							</div>
@@ -221,8 +221,13 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="">
-								<h2 style="color:#ffffff; font-size: 2.7em;" class="text-center">Estás a 5 minutos de llevar tu empresa a la nube</h2>
-								<h4 style="color:#ffffff" class="text-center">Regístrate y solicita una prueba gratis y mejora tu administración a partir de hoy mismo</h4> </div>
+								<h2 class="text-center titulo-bloq2">
+									Estás a 5 minutos de llevar tu empresa a la nube
+								</h2>
+								<h4 class="text-center subtitulo-bloq2">
+									Regístrate y solicita una prueba gratis y mejora tu administración a partir de hoy mismo
+								</h4>
+							</div>
 						</div>
 					</div>
 					<div class="row">
