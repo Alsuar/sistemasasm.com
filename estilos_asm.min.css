@@ -130,7 +130,9 @@ h1{
     -webkit-transition:1s;
     -o-transition:1s;
     max-width:120px;
-    max-height:120px
+    max-height:120px;
+    width: auto;
+    height: auto;
 }
 .feature img:hover{
     transform:scale(1.2);

@@ -63,6 +63,9 @@
 
 					</div>
 				</div>
+
+				<h2 class="sr-only">Módulos del software administrativo</h2>
+
 				<section class="features">
 					<div class="row">
 						<article class="feature">
@@ -124,7 +127,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.webp" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.webp" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar"></a>
 									<h3>GESTIÓN DE BANCOS</h3>
 									<p class="leadtxt">Controla ingresos, egresos, cuentas por cobrar y cuentas por pagar.</p>
 								</div>
@@ -162,7 +165,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.webp" alt="Sistema administrativo 100% en la nube" height="140" width="140"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.webp" alt="Sistema administrativo 100% en la nube"></a>
 									<h3>100% EN LA NUBE</h3>
 									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexión a Internet.</p>
 								</div>
@@ -224,9 +227,9 @@
 								<h2 class="text-center titulo-bloq2">
 									Estás a 5 minutos de llevar tu empresa a la nube
 								</h2>
-								<h4 class="text-center subtitulo-bloq2">
+								<p class="text-center subtitulo-bloq2">
 									Regístrate y solicita una prueba gratis y mejora tu administración a partir de hoy mismo
-								</h4>
+								</p>
 							</div>
 						</div>
 					</div>
