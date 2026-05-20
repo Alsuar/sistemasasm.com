@@ -17,7 +17,7 @@ $pagina_actual = basename($_SERVER['PHP_SELF']);
                   <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand logo-brand" href="index.php">
-                  <img src="img/logoforma.png" alt="sistemasasm">
+                  <img src="img/logoforma.png" alt="Sistemas ASM" width="48" height="48">
                 </a>
               </div>
               

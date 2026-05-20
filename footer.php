@@ -18,7 +18,9 @@
 			</span>
 			<br>
 			<br>
-			<a href="#arriba"><button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-chevron-up"></span></button></a>
+			<a href="#arriba" class="btn btn-default" aria-label="Volver al inicio de la página">
+				<span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span>
+			</a>
 			<br><br>
 			</div>
 			<a id="abajo"></a>
@@ -26,9 +28,9 @@
 		<div class="col-lg-2 col-md-2 col-sm-2 col-xs-4 text-center">
 		    <!-- Botón de WhatsApp -->
 		    <div class="whatsapp-button">
-		        <a href="https://wa.me/+50767236788" target="_blank">
-		            <img src="img/whatsapp.webp" alt="WhatsApp" class="img-responsive">
-		        </a>
+				<a href="https://wa.me/+50767236788" target="_blank" rel="noopener noreferrer" aria-label="Contactar a Sistemas ASM por WhatsApp">
+					<img src="img/whatsapp.webp" alt="" class="img-responsive" width="60" height="60" loading="lazy">
+				</a>
 		    </div>
 		</div>
 </div> 

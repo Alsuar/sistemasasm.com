@@ -5,7 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="canonical" href="https://www.sistemasasm.com/sistema-administrativo.php"/>
 <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 <title>Sistema Administrativo para Inventario, Ventas y Facturación Electrónica | Sistemas ASM</title>
 <meta name="description" content="Controle inventario, ventas, clientes, proveedores, almacenes y sucursales con un sistema administrativo en la nube con facturación electrónica para empresas.">
 <style type="text/css">

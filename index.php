@@ -6,7 +6,9 @@
 	<link rel="canonical" href="https://www.sistemasasm.com/"/>
 	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
-	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 	<title>Software Administrativo en la Nube para Inventario y Facturación | Sistemas ASM</title>
 	<meta name="description" content="Sistema administrativo en la nube para gestionar inventario, ventas, clientes, bancos, sucursales y facturación electrónica en Panamá y Venezuela.">
 </head>
@@ -23,24 +25,23 @@
 				<?php include('modal_contacto.php'); ?> </div>
 			<section>
 				<div class="image"> 
-				<!--<img src="img/home_sistemasasm.webp" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive">-->
-				<img src="img/home_sistemasasm.webp" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive home-banner-img" width="1052" height="244" fetchpriority="high">
+					<img src="img/home_sistemasasm.webp" alt="Software administrativo en la nube Sistemas ASM" class="img-responsive home-banner-img" width="1052" height="244" fetchpriority="high">
 
-				<h2 class="hero-banner-text">
-					<span class="hero-kicker">EMPRESAS MODERNAS, SOLUCIONES INTELIGENTES</span>
+					<div class="hero-banner-text">
+						<span class="hero-kicker">EMPRESAS MODERNAS, SOLUCIONES INTELIGENTES</span>
 
-					<span class="hero-title">
-						ADMINISTRAR NUNCA
-						<br>
-						FUE TAN <span class="hero-title-accent">FÁCIL.</span>
-					</span>
+						<span class="hero-title">
+							ADMINISTRAR NUNCA
+							<br>
+							FUE TAN <span class="hero-title-accent">FÁCIL.</span>
+						</span>
 
-					<span class="hero-desc">
-						Unifique sus operaciones con una plataforma
-						<br>
-						innovadora y escalable.
-					</span>
-				</h2>
+						<span class="hero-desc">
+							Unifique sus operaciones con una plataforma
+							<br>
+							innovadora y escalable.
+						</span>
+					</div>
 					<span class="caj-btn-layer"> 
 						<button class="btn btn-primary" style="border-radius: 0" id="btn_contacto_ban">PRUÉBALO GRATIS</button> 
 					</span> 
