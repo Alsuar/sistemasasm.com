@@ -71,7 +71,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.webp" alt="Gestión de inventario con software administrativo en la nube"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_inventario.webp" alt="Gestión de inventario con software administrativo en la nube" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE INVENTARIOS</h3>
 									<p class="leadtxt">Controla existencias, movimientos y productos sin depender de hojas de Excel.</p>
 								</div>
@@ -80,7 +80,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.webp" alt="Gestión de órdenes de compra y venta en Sistemas ASM"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_ordenes.webp" alt="Gestión de órdenes de compra y venta en Sistemas ASM" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE ÓRDENES</h3>
 									<p class="leadtxt">Crea órdenes de compra, ventas, facturas y notas de entrega de forma rápida.</p>
 								</div>
@@ -89,7 +89,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/taller.webp" alt="Módulo de taller mecánico con órdenes de servicio"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/taller.webp" alt="Módulo de taller mecánico con órdenes de servicio" width="120" height="120" loading="lazy"></a>
 									<h3>MÓDULO DE TALLER</h3>
 									<p class="leadtxt">Aumenta la productividad, la eficacia y los ingresos con nuestro Sistema de Taller.</p>
 								</div>
@@ -98,7 +98,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.webp" alt="Reportes inteligentes de ventas e inventario"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/reportes.webp" alt="Reportes inteligentes de ventas e inventario" width="120" height="120" loading="lazy"></a>
 									<h3>REPORTES INTELIGENTES</h3>
 									<p class="leadtxt">Consulta ventas, productos destacados e indicadores para tomar mejores decisiones.</p>
 								</div>
@@ -109,7 +109,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.webp" alt="Gestión de almacenes y sucursales en la nube"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/gestion_almacenes.webp" alt="Gestión de almacenes y sucursales en la nube" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE ALMACENES</h3>
 									<p class="leadtxt">Optimiza tu cadena de valor, integrando todos tus almacenes en un solo lugar</p>
 								</div>
@@ -118,7 +118,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.webp" alt="Gestión de clientes en software administrativo"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/clientes.webp" alt="Gestión de clientes en software administrativo" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE CLIENTES</h3>
 									<p class="leadtxt">Gestiona la relación con tus clientes fácilmente y en un solo lugar.</p>
 								</div>
@@ -127,7 +127,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.webp" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/bancos.webp" alt="Gestión de bancos cuentas por cobrar y cuentas por pagar" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE BANCOS</h3>
 									<p class="leadtxt">Controla ingresos, egresos, cuentas por cobrar y cuentas por pagar.</p>
 								</div>
@@ -136,7 +136,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.webp" alt="Software administrativo compatible con computadora tablet y celular"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/dispositivos.webp" alt="Software administrativo compatible con computadora tablet y celular" width="120" height="120" loading="lazy"></a>
 									<h3>TODOS TUS DISPOSITIVOS</h3>
 									<p class="leadtxt">Úsalo desde tu smartphone, tablet o computadora de escritorio</p>
 								</div>
@@ -147,7 +147,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.webp" alt="Gestión de proveedores en software administrativo"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/proovedores.webp" alt="Gestión de proveedores en software administrativo" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE PROVEEDORES</h3>
 									<p class="leadtxt">Mantén la información de tus proveedores siempre a la mano.</p>
 								</div>
@@ -156,7 +156,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.webp" alt="Gestión de sucursales con sistema de ventas e inventario"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sucursales.webp" alt="Gestión de sucursales con sistema de ventas e inventario" width="120" height="120" loading="lazy"></a>
 									<h3>GESTIÓN DE SUCURSALES</h3>
 									<p class="leadtxt">Sincroniza todas tus sucursales en un solo lugar</p>
 								</div>
@@ -165,7 +165,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.webp" alt="Sistema administrativo 100% en la nube"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/sistema_online.webp" alt="Sistema administrativo 100% en la nube" width="120" height="120" loading="lazy"></a>
 									<h3>100% EN LA NUBE</h3>
 									<p class="leadtxt">Accede al sistema desde cualquier lugar, solo necesitas una conexión a Internet.</p>
 								</div>
@@ -174,7 +174,7 @@
 						<article class="feature">
 							<div class="col-lg-3">
 								<div>
-									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.webp" alt="Soporte remoto y presencial para empresas"></a>
+									<a href="sistema-administrativo.php"><img src="img/iconos/soporte.webp" alt="Soporte remoto y presencial para empresas" width="120" height="120" loading="lazy"></a>
 									<h3>SOPORTE REMOTO Y PRESENCIAL</h3>
 									<p class="leadtxt">Recibe acompañamiento, capacitación y soporte para usar mejor el sistema.</p>
 								</div>
@@ -214,7 +214,7 @@
 						</div>
 
 						<div class="col-lg-7">
-							<img src="img/multi-dispositivosv2.webp" alt="Software administrativo en la nube para múltiples dispositivos" class="img-responsive">
+							<img src="img/multi-dispositivosv2.webp" alt="Software administrativo en la nube para múltiples dispositivos" class="img-responsive" width="670" height="370" loading="lazy">
 						</div>
 					</div>
 				</div>
