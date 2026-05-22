@@ -31,7 +31,7 @@
 							<div>
 								<div class="row">
 									<div class="col-lg-7">
-										<img class="img-responsive" alt="Punto de venta android" src="img/sistema_dispositivos.png">
+										<img class="img-responsive" alt="Punto de venta android" src="img/sistema_dispositivos.webp">
 									</div>
 									<div class="col-lg-5">
 										<h3 class="serv_tit1">Mantén tu Empresa organizada y conectada</h3>
@@ -73,7 +73,7 @@
 										<p>Ahora puedes saber dónde están ubicados tus productos desde que entran a tu almacén hasta que se entregan a tus clientes mediante un reporte detallado de movimientos de inventario.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Reportes de ventas" src="img/reportes_tiempo_real.png">
+										<img class="img-responsive" alt="Reportes de ventas" src="img/reportes_tiempo_real.webp">
 									</div>
 								</div>
 						
@@ -89,7 +89,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Factura Electronica" src="img/factura_electronica_panama.png">
+										<img class="img-responsive" alt="Factura Electronica" src="img/factura_electronica_panama.webp">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Agiliza y mejora todo tus procesos de ventas</h3>
@@ -118,7 +118,7 @@
 										<p> Realiza transferencias y ajustes de productos de forma fácil y rápida, manteniendo un control total sobre tus existencias con nuestro Punto de Venta Android.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Gestion de inventarios" src="img/inventario_transferencia_ajustes.png">
+										<img class="img-responsive" alt="Gestion de inventarios" src="img/inventario_transferencia_ajustes.webp">
 									</div>
 								</div>
 							</div>
@@ -133,7 +133,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Software de Ventas" src="img/importar_excel.png">
+										<img class="img-responsive" alt="Software de Ventas" src="img/importar_excel.webp">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">No pierdas más tiempo capturando a mano tu información</h3>
@@ -173,7 +173,7 @@
 										<p>Administra fotos, códigos, descripciones, grupos y tipos de precios entre otros datos por medio de nuestra ficha de productos y mantén esta vital información accesible cuando más lo necesiten.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de inventario" src="img/catalogo_productos.png">
+										<img class="img-responsive" alt="Sistema de inventario" src="img/catalogo_productos.webp">
 									</div>
 								</div>
 							</div>
@@ -188,7 +188,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema administrativo" src="img/catalogo_proveedores.png">
+										<img class="img-responsive" alt="Sistema administrativo" src="img/catalogo_proveedores.webp">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Encuentra todas las herramientas necesarias para trabajar con tu</h3>
@@ -204,7 +204,7 @@
 					<div class="imgbloq bloq3">
 						<div class="row">
 							<div class="col-lg-4">
-								<img src="img/clientes_sistemasasm.png" alt="Sistemasasm" class="img-responsive text-center">
+								<img src="img/clientes_sistemasasm.webp" alt="Sistemasasm" class="img-responsive text-center">
 							</div>
 							<div class="col-lg-7">
 								<div class="row">
@@ -240,7 +240,7 @@
 										<p>Maximiza el potencial de cada relación comercial.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Software de facturacion" src="img/prospecto_clientes.png">
+										<img class="img-responsive" alt="Software de facturacion" src="img/prospecto_clientes.webp">
 									</div>
 								</div>
 							</div>
@@ -255,7 +255,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de facturacion y cotizaciones" src="img/pedidos_cotizaciones.png">
+										<img class="img-responsive" alt="Sistema de facturacion y cotizaciones" src="img/pedidos_cotizaciones.webp">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Obtén un mejor cotrol de las ventas dentro de tu negocio</h3>
@@ -284,7 +284,7 @@
 
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Software de ventas" src="img/reporte_ventas.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Software de ventas" src="img/reporte_ventas.webp" style="max-width: 200px;">
 									</div>
 								</div>
 							</div>
@@ -298,7 +298,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Cuentas por cobrar y pagar" src="img/cuentas por cp.png">
+										<img class="img-responsive" alt="Cuentas por cobrar y pagar" src="img/cuentas_por_cp.webp">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Olvídate de excel y supervisa lo que te deben donde quiera que estés</h3>
@@ -336,7 +336,7 @@
 										<p>Gestiona tus existencias y almacenes de manera eficiente. Genera reportes detallados para tomar decisiones informadas y mantener el control sobre tu mercancia.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de inventario" src="img/reportes_inventarios.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Sistema de inventario" src="img/reportes_inventarios.webp" style="max-width: 200px;">
 									</div>
 								</div>
 							</div>
@@ -351,7 +351,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de compras" src="img/reporte_compras.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Sistema de compras" src="img/reporte_compras.webp" style="max-width: 200px;">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Genera reportes de las compras realizadas con solo un clic</h3>
@@ -367,7 +367,7 @@
 					<div class="imgbloq bloq3">
 						<div class="row">
 							<div class="col-lg-4">
-								<img src="img/team_sistemasasm.png" alt="Sistemasasm.com" class="img-responsive text-center">
+								<img src="img/team_sistemasasm.webp" alt="Sistemasasm.com" class="img-responsive text-center">
 							</div>
 							<div class="col-lg-7">
 								<div class="row">
