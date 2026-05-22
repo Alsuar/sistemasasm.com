@@ -262,11 +262,12 @@ hr{
 }
 .btns{
     margin:10px 0;
-    background:#40b107;
-    border-radius:4px;
-    border:1px solid #379807;
-    border-bottom:5px solid #379807;
+
+    background:#2f7d04;
+    border:1px solid #286b03;
+    border-bottom:5px solid #286b03;
     color:#fff!important;
+    border-radius:4px;
     font-size:110%;
     text-shadow:0 2px 1px rgb(0 0 0 / .35);
     -webkit-box-shadow:0 0 5px 0 rgb(0 0 0 / .5);
@@ -278,7 +279,7 @@ hr{
     padding:6% 2%
 }
 .btns:hover{
-    background:#6bc43f;
+     background:#3f9b08;
     -webkit-transition-duration:.6s
 }
 .bloq3{
