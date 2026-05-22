@@ -25,7 +25,7 @@
       "name": "Cómo crear un Cliente",
       "description": "Registro y gestión de clientes en el sistema de taller de Sistemas ASM.",
       "thumbnailUrl": [
-		"https://www.sistemasasm.com/img/tutoriales/crear-cliente.png"
+		"https://www.sistemasasm.com/img/tutoriales/crear-cliente.webp"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT3M45S",
@@ -41,7 +41,7 @@
       "name": "Cómo crear un Artículo",
       "description": "Alta de artículos y repuestos con categorías, precios e impuestos.",
       "thumbnailUrl": [
-        "https://www.sistemasasm.com/img/tutoriales/crear-articulo-taller.png"
+        "https://www.sistemasasm.com/img/tutoriales/crear-articulo-taller.webp"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT4M20S",
@@ -57,7 +57,7 @@
       "name": "Cómo crear una Orden de Servicio",
       "description": "Generación y seguimiento de una Orden de Servicio para talleres mecánicos.",
       "thumbnailUrl": [
-        "https://www.sistemasasm.com/img/tutoriales/crear-orden-de-servicio-taller.png"
+        "https://www.sistemasasm.com/img/tutoriales/crear-orden-de-servicio-taller.webp"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT6M10S",
@@ -73,7 +73,7 @@
       "name": "Cómo facturar una orden de servicio y pago",
       "description": "Facturar una orden de servicio y crear el pago de cliente",
       "thumbnailUrl": [
-        "https://www.sistemasasm.com/img/tutoriales/facturar-orden-de-servicio-taller.png"
+        "https://www.sistemasasm.com/img/tutoriales/facturar-orden-de-servicio-taller.webp"
       ],
       "uploadDate": "2025-11-03T00:38:38-04:00",
       "duration": "PT6M10S",
@@ -103,7 +103,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-4">
-										<img class="img-responsive" alt="Software para taller" src="img/modulo_taller.png">
+										<img class="img-responsive" alt="Software para taller" src="img/modulo_taller.webp" width="423" height="312" fetchpriority="high">
 									</div>
 									<div class="col-lg-6">
 										<h3 class="serv_tit1">Software para Taller</h3>
@@ -145,7 +145,7 @@
 										<p>Solución de facturación electrónica integrada. Simplifica el proceso de emisión de facturas y mantén la documentación en orden, utilizando un software diseñado específicamente para adaptarse a las normativas locales.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Factura Electronica Panama" src="img/factura_electronica_panama.png">
+										<img class="img-responsive" alt="Factura Electronica Panama" src="img/factura_electronica_panama.webp" width="300" height="300" loading="lazy">
 									</div>
 								</div>
 							</div>
@@ -160,7 +160,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive img-rounded" alt="Sistema de taller e inventario" src="img/inventario_transferencia_ajustes.png">
+										<img class="img-responsive img-rounded" alt="Sistema de taller e inventario" src="img/inventario_transferencia_ajustes.webp" width="300" height="300" loading="lazy">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Supervisa todos los movimientos de tus productos</h3>
@@ -189,7 +189,7 @@
 										<br/>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Software de inventario" src="img/reportes_inventarios.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Software de inventario" src="img/reportes_inventarios.webp" style="max-width: 200px;" width="300" height="300" loading="lazy">
 									</div>
 								</div>
 							</div>
@@ -217,7 +217,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Catalogo de repuestos" src="img/catalogo_productos.png">
+										<img class="img-responsive" alt="Catalogo de repuestos" src="img/catalogo_productos.webp" width="300" height="300" loading="lazy">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Ordena y categoriza todo lo que comercializas</h3>
@@ -246,7 +246,7 @@
 										<p>Captura sus datos fiscales, direccion, telefonos, email y descuentos pactados entre otros datos.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de taller" src="img/prospecto_clientes.png">
+										<img class="img-responsive" alt="Sistema de taller" src="img/prospecto_clientes.webp" width="300" height="300" loading="lazy">
 									</div>
 								</div>
 							</div>
@@ -257,7 +257,7 @@
 					<div class="imgbloq bloq3">
 						<div class="row">
 							<div class="col-lg-4">
-								<img src="img/clientes_sistemasasm.png" alt="Punto de venta android" class="img-responsive text-center">
+								<img src="img/clientes_sistemasasm.webp" alt="Punto de venta android" class="img-responsive text-center" width="300" height="300" loading="lazy">
 							</div>
 							<div class="col-lg-7">
 								<div class="row">
@@ -286,7 +286,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Software de ventas y cotizaciones" src="img/pedidos_cotizaciones.png">
+										<img class="img-responsive" alt="Software de ventas y cotizaciones" src="img/pedidos_cotizaciones.webp" width="300" height="300" loading="lazy">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Simplifica la gestión de tu taller</h3>
@@ -314,7 +314,7 @@
 										<br>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Reportes de ventas" src="img/reporte_ventas.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Reportes de ventas" src="img/reporte_ventas.webp" style="max-width: 200px;" width="300" height="300" loading="lazy">
 									</div>
 								</div>
 							</div>
@@ -328,7 +328,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Cuentas por cobrar y pagar" src="img/cuentas por cp.png">
+										<img class="img-responsive" alt="Cuentas por cobrar y pagar" src="img/cuentas_por_cp.webp" width="300" height="300" loading="lazy">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Olvídate de excel y supervisa lo que te deben donde quiera que estés</h3>
@@ -367,7 +367,7 @@
 										<p>Evita interrupciones en tus servicios con reportes de existencias de repuestos actualizados. Nuestro software para taller mecánico garantiza que siempre tengas los componentes necesarios, mejorando la satisfacción del cliente y la eficiencia operativa.</p>
 									</div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Control de inventarios panama" src="img/reportes_inventarios.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Control de inventarios panama" src="img/reportes_inventarios.webp" style="max-width: 200px;" width="300" height="300" loading="lazy">
 									</div>
 									<div class="col-lg-1"></div>
 								</div>
@@ -383,7 +383,7 @@
 								<div class="row">
 									<div class="col-lg-1"></div>
 									<div class="col-lg-3">
-										<img class="img-responsive" alt="Sistema de compras y ventas" src="img/reporte_compras.png" style="max-width: 200px;">
+										<img class="img-responsive" alt="Sistema de compras y ventas" src="img/reporte_compras.webp" style="max-width: 200px;" width="300" height="300" loading="lazy">
 									</div>
 									<div class="col-lg-7">
 										<h3 class="serv_tit1">Genera reportes de las compras realizadas con solo un clic</h3>
@@ -399,7 +399,7 @@
 					<div class="imgbloq bloq3">
 						<div class="row">
 							<div class="col-lg-4">
-								<img src="img/team_sistemasasm.png" alt="sistemasasm" class="img-responsive text-center">
+								<img src="img/team_sistemasasm.webp" alt="sistemasasm" class="img-responsive text-center" width="300" height="300" loading="lazy">
 							</div>
 							<div class="col-lg-7">
 								<div class="row">
@@ -456,12 +456,12 @@
 							<div class="col-lg-4 text-center">
 								<h3 class="sr-only">Crear un Cliente</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/crear-cliente.png" width="100%">
+									<video controls preload="none" poster="img/tutoriales/crear-cliente.webp" width="100%">
 									<source src="videos/crear-cliente.mp4" type="video/mp4">
 									<track src="videos/subs/crear-cliente-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
-									<figcaption style="padding:8px 10px;font-size:14px;color:#6b7280;background:#0b0b0b">
+									<figcaption class="video-caption">
 									Registro y gestión de clientes en el sistema de taller.
 									</figcaption>
 								</figure>
@@ -470,12 +470,12 @@
 							<div class="col-lg-4 text-center">
 								<h3 class="sr-only">Crear un Artículo</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/crear-articulo-taller.png" width="100%">
+									<video controls preload="none" poster="img/tutoriales/crear-articulo-taller.webp" width="100%">
 									<source src="videos/crear-articulo-taller.mp4" type="video/mp4">
 									<track src="videos/subs/crear-articulo-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
-									<figcaption style="padding:8px 10px;font-size:14px;color:#6b7280;background:#0b0b0b">
+									<figcaption class="video-caption">
 									Alta de artículos y repuestos: códigos, categorías, precios e impuestos.
 									</figcaption>
 								</figure>
@@ -483,12 +483,12 @@
 							<div class="col-lg-4 text-center">
 								<h3 class="sr-only">Crear Orden de Servicio</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/crear-orden-de-servicio-taller.png" width="100%">
+									<video controls preload="none" poster="img/tutoriales/crear-orden-de-servicio-taller.webp" width="100%">
 									<source src="videos/crear-orden-de-servicio-taller.mp4" type="video/mp4">
 									<track src="videos/subs/orden-servicio-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
-									<figcaption style="padding:8px 10px;font-size:14px;color:#6b7280;background:#0b0b0b">
+									<figcaption class="video-caption">
 									Como crear Orden de Servicio: Servicio (Mano de Obra) y repuestos.
 									</figcaption>
 								</figure>
@@ -500,12 +500,12 @@
 							<div class="col-lg-6 text-center">
 								<h3 class="sr-only">Facturar Orden de Servicio y Pago</h3>
 								<figure style="margin:0;border:1px solid #e5e7eb;border-radius:10px;overflow:hidden;background:#000">
-									<video controls preload="metadata" poster="img/tutoriales/facturar-orden-de-servicio-taller.png" width="100%">
+									<video controls preload="none" poster="img/tutoriales/facturar-orden-de-servicio-taller.webp" width="100%">
 									<source src="videos/facturar-orden-de-servicio-taller.mp4" type="video/mp4">
 									<track src="videos/subs/crear-cliente-es.vtt" kind="subtitles" srclang="es" label="Español">
 									Tu navegador no soporta video HTML5.
 									</video>
-									<figcaption style="padding:8px 10px;font-size:14px;color:#6b7280;background:#0b0b0b">
+									<figcaption class="video-caption">
 									Como facturar una orden de Servicio y registrar el pago del cliente.
 									</figcaption>
 								</figure>
